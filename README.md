@@ -1,16 +1,18 @@
-## Hi there 👋
+Desarrollador Web con habilidades en tecnologías modernas
 
-<!--
-**RGonzalezRebolledo/RGonzalezRebolledo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollo front-end: HTML, CSS, JavaScript, React
+Desarrollo back-end: Node.js, Express
+Bases de datos: PostgreSQL
+Frameworks y bibliotecas: Tailwind
+Herramientas de desarrollo: Git, GitHub, Visual Studio Code
 
-Here are some ideas to get you started:
+Soy un apasionado por el mundo del desarrollo de aplicaciones web, con un fuerte deseo de aprender y crecer en este campo. Mi enfoque está en la creación de experiencias de usuario intuitivas y atractivas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+¿Qué busco? Estoy en búsqueda de oportunidades para aprender y crecer dentro de un equipo de desarrollo, donde pueda aplicar mis habilidades y contribuir a proyectos que me permitan crecer exponencialmente.
+
+CONTACTAME
+ +5804125824628
+ ramongonzalez101@gmail.com.
+www.linkedin.com/in/ramon-gonzalez-5666722b3  
+https://github.com/RGonzalezRebolledo.
+
